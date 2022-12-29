@@ -1,5 +1,5 @@
 Log#1 Date-29-12-2022:
-  API to fetch vaccine availability, is not currently working. I've checking it for last 3 days. If it starts working again. I'll edit the Code.
+  API to fetch vaccine availability, is not currently working. I've checking it for the last 3 days. If it starts working again. I'll edit the Code.
   
   
 Screenshots:
